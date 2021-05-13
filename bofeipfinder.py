@@ -3,7 +3,7 @@
 # Twitter: @nobelh
 
 import socket
-# Functions
+
 ## Input validation
 def inputval (tvar,tvalue):
     if tvar == "ip":
@@ -113,7 +113,7 @@ def paybuilder(targetip,tport,bufftype):
 
 # Script Interactive section
 print ("\r\n================================")
-print ("BoF Basic Payload Generator")
+print ("BOF Basic EIP Finder")
 print ("================================")
 
 # Process target information 
